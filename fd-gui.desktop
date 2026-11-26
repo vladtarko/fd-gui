@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=fd-gui
+GenericName=File Search
+Comment=Fast file and directory search using fd
+Exec=fd-gui
+Icon=system-search
+Terminal=false
+Categories=Utility;FileTools;
+Keywords=search;find;files;directories;fd;
+StartupNotify=true
